@@ -38,9 +38,12 @@ This C++ project allows users to register as **donors** or **recipients** and ma
 - Implementing SMS/email notifications for donors and recipients.  
 
 ## **Contributors**  
+- Gehad Ebrahim
 - Tasneem Ma'mon
 - Habiba Osama
 - Lina Hisham
 - Sara Mohsen
-- Gehad Ebrahim
+- Dalia Ahmed
+- Sondons 
+
 
