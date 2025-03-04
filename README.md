@@ -44,6 +44,6 @@ This C++ project allows users to register as **donors** or **recipients** and ma
 - Lina Hisham
 - Sara Mohsen
 - Dalia Ahmed
-- Sondons 
+- Sondons Khaled
 
 
