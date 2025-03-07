@@ -35,7 +35,6 @@ This C++ project allows users to register as **donors** or **recipients** and ma
 
 ## **Future Enhancements**  
 - Adding a GUI interface for better user experience.  
-- Implementing SMS/email notifications for donors and recipients.  
 
 ## **Contributors**  
 - Gehad Ebrahim
